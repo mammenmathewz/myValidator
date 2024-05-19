@@ -1,11 +1,18 @@
-my_validator is a powerful Node.js package designed to enhance the security of user authentication in your applications. It provides robust validation for email addresses, passwords, and phone numbers, ensuring that your users’ credentials meet the necessary criteria.
+# @mammen/my_validator
 
-Features
-Email Validation: Ensures the email format is correct and follows common standards.
-Password Validation: Validates passwords to ensure they meet security requirements, including a mix of upper and lower case letters, numbers, and a minimum length.
-Phone Number Validation: Cleans and validates phone numbers to ensure they are in a correct format.
-Installation
+`my_validator` is a powerful Node.js package designed to enhance the security of user authentication in your applications. It provides robust validation for email addresses, passwords, and phone numbers, ensuring that your users’ credentials meet the necessary criteria.
+
+## Features
+
+- **Email Validation**: Ensures the email format is correct and follows common standards.
+- **Password Validation**: Validates passwords to ensure they meet security requirements, including a mix of upper and lower case letters, numbers, and a minimum length.
+- **Phone Number Validation**: Cleans and validates phone numbers to ensure they are in a correct format.
+
+## Installation
+
 To install the package, use npm:
+
+```bash
 npm install @mammen/my_validator
 
 Usage
