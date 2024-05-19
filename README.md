@@ -12,6 +12,8 @@
 
 To install the package, use npm:
 
+https://www.npmjs.com/package/@mammen/my_validator
+
 ```bash
 npm install @mammen/my_validator
 ```
