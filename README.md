@@ -63,8 +63,8 @@ Returns: true if all user details are valid, otherwise false.
 Contributing
 Contributions are welcome! Please open an issue or submit a pull request to the GitHub repository.
 
-Author
+Author :
 Mammen Mathew
 
-Bugs and Issues
+Bugs and Issues :
 If you encounter any bugs or issues, please report them.
