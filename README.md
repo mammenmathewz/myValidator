@@ -14,9 +14,10 @@ To install the package, use npm:
 
 ```bash
 npm install @mammen/my_validator
-
+```
 Usage
 Here's a quick example of how to use the my_validator package:  
+```
 const MyValidator = require('@mammen/my_validator');
 
 const user = {
@@ -32,6 +33,7 @@ if (validator.validateUser()) {
 } else {
     console.log('User is invalid');
 }
+```
 
 API
 MyValidator
