@@ -1,0 +1,25 @@
+{
+  "name": "@mammen/my_validator",
+  "version": "1.0.0",
+  "description": "my_validator is a powerful Node.js package designed to enhance the security of user authentication in your applications. It provides robust validation for both email addresses and passwords, ensuring that your users’ credentials meet the necessary criteria.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mammenmathewz/myValidator.git"
+  },
+  "keywords": [
+    "my_validator"
+  ],
+  "author": "Mammen Mathew",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mammenmathewz/myValidator/issues"
+  },
+  "homepage": "https://github.com/mammenmathewz/myValidator#readme"
+}
