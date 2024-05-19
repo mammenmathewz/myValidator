@@ -8,8 +8,8 @@ let user = {
 }
 
 const val = new MyValidator(user)
-console.log(val.isEmail("user@domain"));
-console.log(val.isPassword("Abcde1"));
-console.log(val.validatePhone("12345690"))
+console.log(val.isEmail("user@domain")); //false
+console.log(val.isPassword("Abcde1")); //false
+console.log(val.validatePhone("12345690")) //false
 
-console.log(val.validateUser(user));
+console.log(val.validateUser(user)); //true
