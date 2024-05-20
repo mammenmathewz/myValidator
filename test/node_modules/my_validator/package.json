@@ -1,6 +1,6 @@
 {
   "name": "@mammen/my_validator",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "my_validator is a powerful Node.js package designed to enhance the security of user authentication in your applications. It provides robust validation for both email addresses and passwords, ensuring that your users’ credentials meet the necessary criteria.",
   "main": "index.js",
   "directories": {

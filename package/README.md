@@ -24,8 +24,7 @@ const MyValidator = require('@mammen/my_validator');
 
 const user = {
     email: 'example@example.com',
-    password: 'Password123',
-    phone: '123-456-7890'
+    password: 'Password123'
 };
 
 const validator = new MyValidator(user);

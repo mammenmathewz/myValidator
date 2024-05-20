@@ -20,7 +20,7 @@ class MyValidator {
 
     validateUser() {
         const { email, password } = this.user;
-        return this.isEmail(email) && this.isPassword(password) && this.validatePhone(this.user.phone);
+        return this.isEmail(email) && this.isPassword(password);
     }
 }
 

@@ -2,9 +2,7 @@ const MyValidator = require('my_validator')
 
 let user = {
     email : "mammen999@gmail.com",
-    password : "jhdfagbjk@2HH",
-    phone : "0987654321",
-
+    password : "jhdfagbjk@2HH"
 }
 
 const val = new MyValidator(user)
