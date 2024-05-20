@@ -57,9 +57,10 @@ Validates the phone number format.
 
 phone: The phone number to validate.
 Returns: true if the phone number is valid, otherwise false.
+
+
 validateUser()
 Validates the user's email, password.
-
 Returns: true if all user details are valid, otherwise false.
 Contributing
 Contributions are welcome! Please open an issue or submit a pull request to the GitHub repository.
